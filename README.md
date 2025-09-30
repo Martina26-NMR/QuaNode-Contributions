@@ -21,7 +21,7 @@ I worked mainly with **Angular & Node.js** projects, applying best practices in 
 - **Description:** Developed image upload functionality with editing tools and integrated it into the project dashboard.
 
 ---
-### 2. AwesomeJS Monorepo
+### 3. AwesomeJS Monorepo
 - **Repository:** [QuaNode/test-behaviours](https://github.com/Martina26-NMR/awesome-js.git)  
 - **My Branch:** [Charts-structure](https://github.com/Martina26-NMR/awesome-js/tree/charts-structure)
 - **Description:** A monorepo for frontend JS libraries built to align with the BeamJS roadmap of unified developer experiences.
