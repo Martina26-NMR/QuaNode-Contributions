@@ -19,6 +19,7 @@ I worked mainly with **Angular & Node.js** projects, applying best practices in 
 - **Repository:** [QuaNode/test-behaviours](https://github.com/QuaNode/test-behaviours)  
 - **My Branch:** [Image Upload & Editing](https://gitlab.com/QuaNode/poc/-/tree/martina/angular-setup?ref_type=heads)
 - **Description:** Developed image upload functionality with editing tools and integrated it into the project dashboard.
+- **Live Demo:** 👉 [http://localhost:4200/](http://localhost:4200/)
 
 ---
 ### 3. AwesomeJS Monorepo
