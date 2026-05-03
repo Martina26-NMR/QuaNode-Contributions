@@ -23,7 +23,6 @@ I worked mainly with **Angular & Node.js** projects, applying best practices in 
 ---
 
 ### 3. Image Upload & Editing
-- **Repository:** [QuaNode/test-behaviours](https://github.com/QuaNode/test-behaviours)  
 - **My Branch:** [Image Upload & Editing](https://gitlab.com/QuaNode/poc/-/tree/martina/angular-setup?ref_type=heads)
 - **Description:** Developed image upload functionality with editing tools and integrated it into the project dashboard.
 
