@@ -7,7 +7,14 @@ I worked mainly with **Angular & Node.js** projects, applying best practices in 
 
 ## 🔹 Projects & Feature Branches
 
-### 1. Test Behaviours
+
+### 1. AwesomeJS Monorepo
+- **Repository:** [QuaNode/test-behaviours](https://github.com/Martina26-NMR/awesome-js.git)  
+- **Description:** A monorepo for frontend JS libraries built to align with the BeamJS roadmap of unified developer experiences.
+  
+---
+
+### 2. Test Behaviours
 - **Repository:** [QuaNode/test-behaviours](https://github.com/QuaNode/test-behaviours)  
 - **My Branch:** [Feature Branch](https://github.com/QuaNode/test-behaviours/tree/Responsive/update-side-menu-design)
 - **My Branch:** [Feature Branch](https://github.com/QuaNode/test-behaviours/tree/Martina-Mohsen)
@@ -15,16 +22,10 @@ I worked mainly with **Angular & Node.js** projects, applying best practices in 
 
 ---
 
-### 2. Image Upload & Editing
+### 3. Image Upload & Editing
 - **Repository:** [QuaNode/test-behaviours](https://github.com/QuaNode/test-behaviours)  
 - **My Branch:** [Image Upload & Editing](https://gitlab.com/QuaNode/poc/-/tree/martina/angular-setup?ref_type=heads)
 - **Description:** Developed image upload functionality with editing tools and integrated it into the project dashboard.
-
-
----
-### 3. AwesomeJS Monorepo
-- **Repository:** [QuaNode/test-behaviours](https://github.com/Martina26-NMR/awesome-js.git)  
-- **Description:** A monorepo for frontend JS libraries built to align with the BeamJS roadmap of unified developer experiences.
 
 ---
 
